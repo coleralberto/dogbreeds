@@ -1,0 +1,21 @@
+
+.container-logo {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 250px;
+  }
+  .container-logo .box-icon {
+    margin: 40px;
+    width: 100px;
+    height: 200px;
+  }
+  
+  .logo {
+    width: 155px;
+    height: 178px;
+  }
+  
